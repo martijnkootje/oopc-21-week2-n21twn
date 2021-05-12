@@ -2,7 +2,7 @@ ceilingcat:
 heeft de waarde 9 levens, rood 7, groen 4, blauw 5.
 
 happycat:
-(230,10,6,1) + (7,4,5,9)= (237/2,14/2,11/2,10) = (rood 119, groen 7, blauw 6, levens 10)
+(230,10,6,1) + (7,4,5,9)= (237/2,14/2,11/2,10) = (rood 119, groen 7, blauw 6, levens 10)   *** kijk nog eens goed hoe je omgaat met een int
 
 painocat:
 (7,4,5,9) * (230,10,6,1) = (rood 255, groen 40, blauw 30, levens 9)
