@@ -94,9 +94,9 @@ vector operator*(const int & rhs) const{
 /// \brief   
    /// Vector equals Multiply by integer
    /// \details
-   /// This operator equals multiply by a vector and int
+   /// This operator multiplys every value by a value and adds the result to the old value
     vector & operator*=(const int & rhs){
-            x = x * rhs;
+           x = x * rhs;
            y =  y * rhs;
         return  *this;
     }
